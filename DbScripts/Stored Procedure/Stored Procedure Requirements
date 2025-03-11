@@ -1,0 +1,12 @@
+1. Enroll Learner in Course: 
+o Write a stored procedure to handle learner enrollments, ensuring the course exists and 
+the learner has an active account. 
+2. Add a New Course: 
+o Implement a stored procedure for instructors to add courses, including lessons and 
+metadata. 
+3. Generate Revenue Report: 
+o Create a stored procedure to generate a report of total revenue per course and 
+instructor within a specific timeframe. 
+4. Manage Discounts: 
+o Write a stored procedure to apply or update discounts on courses based on promotional 
+campaigns.
